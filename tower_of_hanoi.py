@@ -1,12 +1,3 @@
-##class Disk:
-##    
-##    def __init__(self, tamanho):
-##        self.tamanho = tamanho
-##
-##    def __repr__(self):
-##        return str(self.tamanho)
-        
-
 class Rod:
     
     def __init__(self, n_disks=0):
